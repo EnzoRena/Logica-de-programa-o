@@ -1,1 +1,3 @@
-# Logica-de-programa-o
+# Logica-de-programação
+Professor: Luiz
+Unidade: Betim
